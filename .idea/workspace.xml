@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eac29aff-331d-41a6-8677-0d9fba4ebf9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/airbus-eda.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/md_images/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/md_images/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/md_images/ship.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predictions/prediction_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predictions/prediction_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predictions/prediction_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predictions/prediction_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predictions/prediction_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saved_model/fullres_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saved_model/seg_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saved_model/seg_model_weights.best.hdf5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Markdown" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QvgWAve0tpiT5SoYYeNJZQtrVs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/hanna/PycharmProjects/Airbus-Ship-Detection-Challenge",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../pythonProject/saved_model" />
+      <recent name="$PROJECT_DIR$/../pythonProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../pythonProject/md_images" />
+      <recent name="$PROJECT_DIR$/../pythonProject" />
+      <recent name="$PROJECT_DIR$/../pythonProject/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Airbus-Ship-Detection-Challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$$PROJECT_DIR$/../../../../../../hanna/v/home/hanna/PycharmProjects/Airbus-Ship-Detection-Challenge" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$$PROJECT_DIR$/../../../../../../hanna/v/home/hanna/PycharmProjects/Airbus-Ship-Detection-Challenge/src/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eac29aff-331d-41a6-8677-0d9fba4ebf9e" name="Changes" comment="" />
+      <created>1686239497933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686239497933</updated>
+      <workItem from="1686239505254" duration="1115000" />
+      <workItem from="1686520292075" duration="12538000" />
+      <workItem from="1686652173465" duration="14705000" />
+      <workItem from="1686674056496" duration="108000" />
+      <workItem from="1686674180813" duration="24000" />
+      <workItem from="1686674398185" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
