@@ -133,6 +133,6 @@ __________________________________________________
 
 ![img.png](md_images/img_1.png)
  
-You can also find some prediction results in [predictions/]('predictions/') folder.
+You can also find some prediction results in [predictions/](predictions/) folder.
 
 _______________________________________________
